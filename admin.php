@@ -57,7 +57,7 @@
         <div class="vertical-line"></div>
         <h1>ADMIN</h1>
         <div class="button-container">
-            <a href="admin/Tambah_produk.php" class="button">Tambah Produk</a>
+            <a href="admin/Tambah_produk1.php" class="button">Tambah Produk</a>
             <a href="admin/1.php" class="button">Penjualan</a>
         </div>
         <div class="button-container">
